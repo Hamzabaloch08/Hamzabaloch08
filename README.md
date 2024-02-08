@@ -11,6 +11,11 @@ SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=318CE7&
 <!-- animation end  -->
 <br/>
 
+<img align="right" alt="Coding" width="400" style="border-radius:20px;"
+	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **HTML,CSS,JAVASCRIPT**
@@ -18,7 +23,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about **JAVA,CSS**
 - 📫 How to reach me **hb0485509@gmail.com**
 
-<img align="right" alt="Coding" width="400" style="border-radius:20px;"
-	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
