@@ -28,8 +28,12 @@ Here are some ideas to get you started:
 <h1 align="left"> My Status :</h1>
 <br/>
 
+###
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hamzabaloch08.Hamzabaloch08&"  />
+	
+<img src="https://komarev.com/ghpvc/?username=Hamzabaloch08&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Hamzabaloch08" /> 
+
 </div>
 
-###
+<br clear="both">
+
