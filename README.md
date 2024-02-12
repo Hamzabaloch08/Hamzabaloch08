@@ -5,7 +5,7 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="400" style="border-radius:20px;"
+<img align="right" alt="Coding" width="450" style="border-radius:20px;"
 	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
