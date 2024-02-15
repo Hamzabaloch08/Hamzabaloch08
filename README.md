@@ -12,7 +12,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **HTML,CSS,JAVASCRIPT**
+- 🔭 I’m currently working on **JAVASCRIPT**
 - 🌱 I’m currently learning **JAVASCRIPT**
 - 💬 Ask me about **JAVASCRIPT**
 - 📫 How to reach me **hb0485509@gmail.com**
