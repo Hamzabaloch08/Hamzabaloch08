@@ -1,7 +1,6 @@
 ![MasterHead](https://www.charpeni.com/_next/image?url=%2Fstatic%2Fimages%2Farrow-functions-in-class-properties-might-not-be-as-great-as-we-think%2Fbanner.gif&w=1920&q=75)
 
-<h1 align="center">Hi 👋, I'm Hamzabaloch</h1>
-
+<h1 align="center">Hi 👋, I'm HamzaBaloch</h1>
 <br/>
 
 <img align="right" alt="Coding" width="450" style="border-radius:20px;"
@@ -20,10 +19,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">My Status</h1>
 <br/>
-
 ###
-<div align="center">
-	
+
+<div align="center">	
 <img src="https://komarev.com/ghpvc/?username=Hamzabaloch08&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Hamzabaloch08" /> 
 
 </div>
