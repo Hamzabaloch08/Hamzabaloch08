@@ -1,4 +1,5 @@
 ![MasterHead](https://www.charpeni.com/_next/image?url=%2Fstatic%2Fimages%2Farrow-functions-in-class-properties-might-not-be-as-great-as-we-think%2Fbanner.gif&w=1920&q=75)
+<br/>
 
 <h1 align="center">Hi 👋, I'm HamzaBaloch</h1>
 <br/>
@@ -23,7 +24,6 @@ Here are some ideas to get you started:
 
 <div align="center">	
 <img src="https://komarev.com/ghpvc/?username=Hamzabaloch08&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Hamzabaloch08" /> 
-
 </div>
 
 <br clear="both">
@@ -33,11 +33,9 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=Hamzabaloch08&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=3&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Hamzabaloch08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
-
 ###
 
 <h3 align="left">🌐 Connect with me:</h3>
-
 ###
 
 <div align="center">
@@ -56,7 +54,6 @@ Here are some ideas to get you started:
 </div>
 
 <h3 align="left">💻 Languages and Tools:</h3>
-
 ###
 
 <div align="left">
@@ -74,6 +71,5 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
 ###
 
