@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">🌐 Connect with me:</h3>
 ###
-<br/>
 
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100088114670655&sk=about" target="_blank">
