@@ -1,5 +1,6 @@
 ![MasterHead](https://www.charpeni.com/_next/image?url=%2Fstatic%2Fimages%2Farrow-functions-in-class-properties-might-not-be-as-great-as-we-think%2Fbanner.gif&w=1920&q=75)
 <br/>
+<br/>
 
 <h1 align="center">Hi 👋, I'm HamzaBaloch</h1>
 <br/>
@@ -9,8 +10,9 @@
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
-Here are some ideas to get you started:
 
+Here are some ideas to get you started:
+<hr/>
 - 🔭 I’m currently working on **JAVASCRIPT**
 - 🌱 I’m currently learning **JAVASCRIPT**
 - 💬 Ask me about **JAVASCRIPT**
