@@ -3,7 +3,6 @@
 
 <h1 align="center">Hi 👋, I'm HamzaBaloch</h1>
 <br/>
-<hr/>
 
 <img align="right" alt="Coding" width="450" style="border-radius:20px;"
 	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
@@ -39,6 +38,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">🌐 Connect with me:</h3>
 ###
+<br/>
 
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100088114670655&sk=about" target="_blank">
