@@ -1,9 +1,9 @@
 ![MasterHead](https://www.charpeni.com/_next/image?url=%2Fstatic%2Fimages%2Farrow-functions-in-class-properties-might-not-be-as-great-as-we-think%2Fbanner.gif&w=1920&q=75)
 <br/>
-<br/>
 
 <h1 align="center">Hi 👋, I'm HamzaBaloch</h1>
 <br/>
+<hr/>
 
 <img align="right" alt="Coding" width="450" style="border-radius:20px;"
 	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
@@ -12,7 +12,7 @@
 
 
 Here are some ideas to get you started:
-<hr/>
+
 - 🔭 I’m currently working on **JAVASCRIPT**
 - 🌱 I’m currently learning **JAVASCRIPT**
 - 💬 Ask me about **JAVASCRIPT**
