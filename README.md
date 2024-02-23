@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **JAVASCRIPT**
 - 📫 How to reach me **hb0485509@gmail.com**
 
-- <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hamzabaloch08" alt="Hamzabaloch08" /></a></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hamzabaloch08" alt="Hamzabaloch08" /></a></p>
 
 <h1 align="center">My Status</h1>
 <br/>
