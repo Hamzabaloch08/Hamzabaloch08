@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <div align="center">	
 <img src="https://komarev.com/ghpvc/?username=Hamzabaloch08&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Hamzabaloch08" /> 
 </div>
-https://wakatime.com/badge/user/018e156a-97fe-4052-9550-7a4c5bc45f92.svg
+[![wakatime](https://wakatime.com/badge/user/018e156a-97fe-4052-9550-7a4c5bc45f92.svg)](https://wakatime.com/@018e156a-97fe-4052-9550-7a4c5bc45f92)
 
 <br clear="both">
 
