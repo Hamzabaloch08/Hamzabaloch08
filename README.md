@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-<a href="https://wakatime.com/@018e156a-97fe-4052-9550-7a4c5bc45f92"><img src="https://wakatime.com/badge/user/018e156a-97fe-4052-9550-7a4c5bc45f92.svg" alt="Total time coded since Mar 6 2024" height="50" /></a>
+<a href="https://wakatime.com/@018e156a-97fe-4052-9550-7a4c5bc45f92"><img src="https://wakatime.com/badge/user/018e156a-97fe-4052-9550-7a4c5bc45f92.svg" alt="Total time coded since Mar 6 2024" /></a>
 </div>
 
 <br clear="both">
