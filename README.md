@@ -5,10 +5,7 @@
 <h1 align="center">Hi 👋🏻, I'm HamzaBaloch</h1>
 <br/>
 
-<img align="right" alt="Coding" width="450" style="border-radius:20px;"
-	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-<!-- <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> -->
 
 
 Here are some ideas to get you started:
