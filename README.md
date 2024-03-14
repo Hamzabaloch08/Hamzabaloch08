@@ -13,8 +13,8 @@
 
 Here are some ideas to get you started:
 
-- 👨‍💻 All of my projects are available at 
-- - 🔭 I’m currently working on **JAVASCRIPT**
+- 👨‍💻 All of my projects are available at <a href="https://hamzabaloch-portfolio.netlify.app/">Hamza Baloch Protfolio</a> 
+- 🔭 I’m currently working on **JAVASCRIPT**
 - 🌱 I’m currently learning **JAVASCRIPT**
 - 💬 Ask me about **JAVASCRIPT**
 - 📫 How to reach me **hb0485509@gmail.com**
