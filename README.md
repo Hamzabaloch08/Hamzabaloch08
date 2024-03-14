@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋🏻, I'm HamzaBaloch</h1>
 <br/>
 
-<div align="center">
+
   Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at <a href="https://hamzabaloch-portfolio.netlify.app/">Hamza Baloch</a> 
@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **JAVASCRIPT**
 - 💬 Ask me about **JAVASCRIPT**
 - 📫 How to reach me **hb0485509@gmail.com**
-</div>
+
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hamzabaloch08" alt="Hamzabaloch08" /></a></p>
 
