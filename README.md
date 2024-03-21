@@ -18,7 +18,6 @@
 
 <h1 align="center">My Status:</h1>
 <br/>
-###
 
 <div align="center">	
 <img src="https://komarev.com/ghpvc/?username=Hamzabaloch08&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Hamzabaloch08" /> 
