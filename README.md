@@ -18,27 +18,8 @@
 <img src="https://komarev.com/ghpvc/?username=Hamzabaloch08&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Hamzabaloch08" /> 
 	<a href="https://wakatime.com/@018e156a-97fe-4052-9550-7a4c5bc45f92"><img src="https://wakatime.com/badge/user/018e156a-97fe-4052-9550-7a4c5bc45f92.svg" alt="Total time coded since Mar 6 2024" height="30" /></a>
 </div>
-________________________________________________________________________________________________________________________________________________________
 
-
-<h3 align="left">🌐 Connect with me:</h3>
-
-<div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100088114670655&sk=about" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
-  </a>
-  <a href="https://wa.me/923322279406" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/hamza-baloxh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/hb._07x/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-</div>
-
-<h3 align="left">💻 Languages and Tools:</h3>
+<h3 align="center">💻 Languages and Tools:</h3>
 
 ###
 
@@ -59,6 +40,26 @@ ________________________________________________________________________________
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 <br/>
+________________________________________________________________________________________________________________________________________________________
+
+
+<h3 align="left">🌐 Connect with me:</h3>
+
+<div align="center">
+  <a href="https://www.facebook.com/profile.php?id=100088114670655&sk=about" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
+  </a>
+  <a href="https://wa.me/923322279406" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/hamza-baloxh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/hb._07x/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+</div>
+
 
 
 <br>
