@@ -13,13 +13,12 @@
 - 💬 Ask me about **JAVASCRIPT**
 - 📫 How to reach me **hb0485509@gmail.com**
 
-
-<h1 align="center">My Status:</h1>
-<br/>
-
-<div align="center">	
+<div align="left">	
 <img src="https://komarev.com/ghpvc/?username=Hamzabaloch08&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Hamzabaloch08" /> 
 </div>
+
+<h1 align="center"></h1>
+<br/>
 
 <div align="center">
 <a href="https://wakatime.com/@018e156a-97fe-4052-9550-7a4c5bc45f92"><img src="https://wakatime.com/badge/user/018e156a-97fe-4052-9550-7a4c5bc45f92.svg" alt="Total time coded since Mar 6 2024" /></a>
