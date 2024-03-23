@@ -18,8 +18,22 @@
 <img src="https://komarev.com/ghpvc/?username=Hamzabaloch08&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Hamzabaloch08" /> 
 	<a href="https://wakatime.com/@018e156a-97fe-4052-9550-7a4c5bc45f92"><img src="https://wakatime.com/badge/user/018e156a-97fe-4052-9550-7a4c5bc45f92.svg" alt="Total time coded since Mar 6 2024" height="30" /></a>
 </div>
-
 <br/>
+
+<h2> GitHub Statistics :zap: :
+	<h2 />
+	<br>
+	<p align="center">
+		<img
+			src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamzabaloch08&show_icons=true&locale=en&layout=compact&count_private=true&theme=outrun" /><br>
+	<p align="center">
+		<img
+			src="https://github-readme-stats.vercel.app/api?username=Hamzabaloch08&show_icons=true&locale=en&count_private=true&theme=outrun" />
+		<br> <br>
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzabaloch08&theme=outrun" />
+		<br> <br>
+		<img src="https://github-profile-trophy.vercel.app/?username=Hamzabaloch08&theme=algolia&no-frame=true&column=-1" />
+	</p>
 
 
 <h3 align="left">🌐 Connect with me:</h3>
