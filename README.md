@@ -74,9 +74,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
+<br/>
 
-###
+		<img
+			src="https://github-readme-stats.vercel.app/api?username=Hamzabaloch08&show_icons=true&locale=en&count_private=true&theme=outrun" />
+		<br> <br>
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzabaloch08&theme=outrun" />
+		<br> <br>
+		<img src="https://github-profile-trophy.vercel.app/?username=Hamzabaloch08&theme=algolia&no-frame=true&column=-1" />
+	</p>
+
+
 </div>
-
-###
 
