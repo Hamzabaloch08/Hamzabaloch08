@@ -76,14 +76,28 @@
 </div>
 <br/>
 
-		<img
-			src="https://github-readme-stats.vercel.app/api?username=Hamzabaloch08&show_icons=true&locale=en&count_private=true&theme=outrun" />
-		<br> <br>
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzabaloch08&theme=outrun" />
-		<br> <br>
-		<img src="https://github-profile-trophy.vercel.app/?username=Hamzabaloch08&theme=algolia&no-frame=true&column=-1" />
-	</p>
 
+<br>
+
+<h2> GitHub Statistics :zap: :
+	<h2 />
+	<br>
+	<p align="center">
+		<img
+			src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact&count_private=true&theme=outrun" /><br>
+	<h2 align="center">Time spent on Coding evidence! (WakaTime)</h2>
+	<p align="center">
+		<img src="https://wakatime.com/share/@shehzad/0548f3ab-f1b2-4566-8da8-08f5040c49cd.svg" width="95%">
+		<br>
+		<img src="https://wakatime.com/share/@shehzad/d99396c5-ef1f-42e2-959e-78830f3326ab.svg" width="95%">
+		<br><br>
+		<img
+			src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en&count_private=true&theme=outrun" />
+		<br> <br>
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&theme=outrun" />
+		<br> <br>
+		<img src="https://github-profile-trophy.vercel.app/?username=shehza-d&theme=algolia&no-frame=true&column=-1" />
+	</p>
 
 </div>
 
