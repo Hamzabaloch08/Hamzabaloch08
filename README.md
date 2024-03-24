@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋🏻, I'm HamzaBaloch</h1>
 <br/>
 
+<p>A 16-year-old aspiring software engineer from Karachi,Pakistan, with a fervent passion for front-end development</p>
+
 
   Here are some ideas to get you started:
 
