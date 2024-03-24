@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋🏻, I'm HamzaBaloch</h1>
 <br/>
 
-<p>A 16-year-old aspiring software engineer from Karachi,Pakistan, with a fervent passion for front-end development I recently completed a rigorous FRONT-END course through SMIT (Saylani Mass IT Training Program), where I honed my skills in HTML, CSS, and JAVASCRIPT. Currently, I am delving deeper into JAVASCRIPT to expand my knowledge and capabilities. My ASPIRATION is to become a proficient FULL STACK DEVELOPER, adept in both FRONT-END and BACK-END technologies. By mastering a diverse ARRAY of PROGRAMMING LANGUAGES and FRAMEWORKS, I aim to create dynamic and seamless WEB APPLICATIONS that enrich user experiences. With dedication and continuous learning, I strive to excel in every aspect of FULL STACK DEVELOPMENT.</p>
+<p align="center" >A 16-year-old aspiring software engineer from Karachi,Pakistan, with a fervent passion for front-end development I recently completed a rigorous FRONT-END course through SMIT (Saylani Mass IT Training Program), where I honed my skills in HTML, CSS, and JAVASCRIPT. Currently, I am delving deeper into JAVASCRIPT to expand my knowledge and capabilities. My ASPIRATION is to become a proficient FULL STACK DEVELOPER, adept in both FRONT-END and BACK-END technologies. By mastering a diverse ARRAY of PROGRAMMING LANGUAGES and FRAMEWORKS, I aim to create dynamic and seamless WEB APPLICATIONS that enrich user experiences. With dedication and continuous learning, I strive to excel in every aspect of FULL STACK DEVELOPMENT.</p>
 
 
   Here are some ideas to get you started:
