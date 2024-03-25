@@ -66,8 +66,7 @@ _________________________________________________________________
 
 <br>
 
-<h2> GitHub Statistics :zap: :
-	<h2 />
+<h2> GitHub Statistics :zap: :<h2/>
 	<br>
 	<p align="center">
 		<img
