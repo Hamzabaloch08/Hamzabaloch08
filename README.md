@@ -67,18 +67,16 @@ _________________________________________________________________
 <br>
 
 <h2> GitHub Statistics</h2>
-	____________________________________________________________________________________________________
+<br>
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamzabaloch08&show_icons=true&locale=en&layout=compact&count_private=true&theme=outrun" />
+	<br>
 	<p align="center">
-		<img
-			src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamzabaloch08&show_icons=true&locale=en&layout=compact&count_private=true&theme=outrun" /><br>
-	<p align="center">
-		<img
-			src="https://github-readme-stats.vercel.app/api?username=Hamzabaloch08&show_icons=true&locale=en&count_private=true&theme=outrun" />
-		<br> <br>
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzabaloch08&theme=outrun" />
-		<br> <br>
-		<img src="https://github-profile-trophy.vercel.app/?username=Hamzabaloch08&theme=algolia&no-frame=true&column=-1" />
+	<img src="https://github-readme-stats.vercel.app/api?username=Hamzabaloch08&show_icons=true&locale=en&count_private=true&theme=outrun" />
+	<br> <br>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzabaloch08&theme=outrun" />
+	<br> <br>
+	<img src="https://github-profile-trophy.vercel.app/?username=Hamzabaloch08&theme=algolia&no-frame=true&column=-1" />
 	</p>
-
 </div>
 
