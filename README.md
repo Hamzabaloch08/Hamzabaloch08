@@ -45,7 +45,7 @@
 _________________________________________________________________
 
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:<h3/>
 
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100088114670655&sk=about" target="_blank">
