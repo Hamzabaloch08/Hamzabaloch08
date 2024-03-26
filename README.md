@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋🏻, I'm HamzaBaloch</h1>
 <br/>
 
-
 <p align="center" >A 16-year-old aspiring software engineer from Karachi,Pakistan, with a fervent passion for front-end development I recently completed a rigorous FRONT-END course through SMIT (Saylani Mass IT Training Program), where I honed my skills in HTML, CSS, and JAVASCRIPT. Currently, I am delving deeper into JAVASCRIPT to expand my knowledge and capabilities. My ASPIRATION is to become a proficient FULL STACK DEVELOPER, adept in both FRONT-END and BACK-END technologies. By mastering a diverse ARRAY of PROGRAMMING LANGUAGES and FRAMEWORKS, I aim to create dynamic and seamless WEB APPLICATIONS that enrich user experiences. With dedication and continuous learning, I strive to excel in every aspect of FULL STACK DEVELOPMENT.</p>
 <br>
-
-
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -23,8 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
-<br/>
-<br/>
+<br>
+<br>
 
 
   Here are some ideas to get you started:
@@ -34,7 +31,7 @@
 - 🌱 I’m currently learning **JAVASCRIPT**
 - 💬 Ask me about **JAVASCRIPT**
 - 📫 How to reach me **hb0485509@gmail.com**
-<br/>
+<br>
 
 <div align="center">	
 <img src="https://komarev.com/ghpvc/?username=Hamzabaloch08&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Hamzabaloch08" /> 
