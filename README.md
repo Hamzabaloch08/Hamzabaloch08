@@ -58,9 +58,6 @@ _________________________________________________________________
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
 </div>
-
-
-
 <br>
 
 <h2> GitHub Statistics ⚡ :</h2>
@@ -68,12 +65,17 @@ _________________________________________________________________
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamzabaloch08&show_icons=true&locale=en&layout=compact&count_private=true&theme=outrun" />
 	<br>
-	<p align="center">
+	<span align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=Hamzabaloch08&show_icons=true&locale=en&count_private=true&theme=outrun" />
 	<br> <br>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzabaloch08&theme=outrun" />
 	<br> <br>
 	<img src="https://github-profile-trophy.vercel.app/?username=Hamzabaloch08&theme=algolia&no-frame=true&column=-1" />
-	</p>
-</div>
+	</span>
 
+
+
+
+
+
+ 
