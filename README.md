@@ -26,7 +26,7 @@
 
   Here are some ideas to get you started:
 
-- 👨‍💻 All of my projects are available at <a href="https://hamzabaloch-portfolio.netlify.app/">Hamza Baloch</a> 
+- 👨‍💻 All of my projects are available at <a href="https://hamzabaloch-portfolio.netlify.app/">Hamza Baloch</a> not complete or responsive
 - 🔭 I’m currently working on **JAVASCRIPT**
 - 🌱 I’m currently learning **JAVASCRIPT**
 - 💬 Ask me about **JAVASCRIPT**
