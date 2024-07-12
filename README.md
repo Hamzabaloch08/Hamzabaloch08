@@ -4,7 +4,7 @@
 <p align="center" >A 16-year-old aspiring software engineer from Karachi,Pakistan, with a fervent passion for front-end development I recently completed a rigorous FRONT-END course through SMIT (Saylani Mass IT Training Program), where I honed my skills in HTML, CSS, and JAVASCRIPT. Currently, I am delving deeper into JAVASCRIPT to expand my knowledge and capabilities. My ASPIRATION is to become a proficient FULL STACK DEVELOPER, adept in both FRONT-END and BACK-END technologies. I aim to create dynamic and seamless WEB APPLICATIONS that enrich user experiences. With dedication and continuous learning, I strive to excel in every aspect of FULL STACK DEVELOPMENT.</p>
 <br>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
