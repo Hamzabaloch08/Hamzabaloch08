@@ -4,21 +4,26 @@
 <p align="center" >A 16-year-old aspiring software engineer from Karachi,Pakistan, with a fervent passion for front-end development I recently completed a rigorous FRONT-END course through SMIT (Saylani Mass IT Training Program), where I honed my skills in HTML, CSS, and JAVASCRIPT. Currently, I am delving deeper into JAVASCRIPT to expand my knowledge and capabilities. My ASPIRATION is to become a proficient FULL STACK DEVELOPER, adept in both FRONT-END and BACK-END technologies. I aim to create dynamic and seamless WEB APPLICATIONS that enrich user experiences. With dedication and continuous learning, I strive to excel in every aspect of FULL STACK DEVELOPMENT.</p>
 <br>
 
-<div align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo" />
-</div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+<div align="left">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
 </div>
 <br>
 <br>
