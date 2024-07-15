@@ -28,7 +28,6 @@
 <br>
 <br>
 
-
   Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at
@@ -45,7 +44,6 @@
 <br>
 
 _________________________________________________________________
-
 
 <h3 align="left">🌐 Connect with me:<h3/>
 
