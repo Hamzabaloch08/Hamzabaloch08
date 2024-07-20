@@ -33,7 +33,7 @@
 - 👨‍💻 All of my projects are available at
 - 🔭 I’m currently working on **JAVASCRIPT**
 - 🌱 I’m currently learning **JAVASCRIPT**
-- 💬 Ask me about **JAVASCRIPT**
+- 💬 Ask me about ****
 - 📫 How to reach me **hb0485509@gmail.com**
 <br>
 
