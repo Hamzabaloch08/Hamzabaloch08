@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm HamzaBaloch</h1>
 <br/>
 
-<p align="center" >i'm 16 years old FRONT-END developer from karachi,pakistan. I recently completed a rigorous FRONT-END where I honed my skills in HTML, CSS, and JAVASCRIPT. Currently, I am delving deeper into JAVASCRIPT to expand my knowledge and capabilities. My ASPIRATION is to become a proficient FULL STACK DEVELOPER, adept in both FRONT-END and BACK-END technologies. I aim to create dynamic and seamless WEB APPLICATIONS that enrich user experiences. With dedication and continuous learning, I strive to excel in every aspect of FULL STACK DEVELOPMENT.</p>
+<p align="center" >I'm 16 years old FRONT-END developer from karachi,pakistan. I recently completed a rigorous FRONT-END where I honed my skills in HTML, CSS, and JAVASCRIPT. Currently, I am delving deeper into JAVASCRIPT to expand my knowledge and capabilities. My ASPIRATION is to become a proficient FULL STACK DEVELOPER, adept in both FRONT-END and BACK-END technologies. I aim to create dynamic and seamless WEB APPLICATIONS that enrich user experiences. With dedication and continuous learning, I strive to excel in every aspect of FULL STACK DEVELOPMENT.</p>
 <br>
 
 <div align="center">
