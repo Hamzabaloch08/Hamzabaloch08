@@ -34,7 +34,7 @@
 - 🔭 I’m currently working on **'FRONT END'**
 - 🌱 I’m currently learning **'JAVASCRIPT'**
 - 💬 Ask me about ** **
-- 📫 How to reach me **'hb0485509@gmail.com'**
+- 📫 How to reach me **hb0485509@gmail.com**
 <br>
 
 <div align="center">	
