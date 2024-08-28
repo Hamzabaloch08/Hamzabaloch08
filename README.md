@@ -71,7 +71,7 @@ _________________________________________________________________
 	<br> <br>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzabaloch08&theme=dark" />
 	<br> <br>
-	<img src="https://github-profile-trophy.vercel.app/?username=Hamzabaloch08&theme=dark" />
+	<img src="https://github-profile-trophy.vercel.app/?username=Hamzabaloch08&theme=dark&no-frame=true&column=-1" />
 	</span>
 
 
