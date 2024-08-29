@@ -64,8 +64,6 @@ _________________________________________________________________
 <h2> GitHub Statistics ⚡ :</h2>
 <br>
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Hamzabaloch08&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-	<br>
 	<span align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=Hamzabaloch08&show_icons=true&locale=en&count_private=true&theme=dark" />
 	<br> <br>
