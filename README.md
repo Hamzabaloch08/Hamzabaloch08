@@ -65,9 +65,9 @@ _________________________________________________________________
 <br>
 <p align="center">
 	<span align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Hamzabaloch08&show_icons=true&locale=en&count_private=true&theme=dark" alt="github-stats" width="800" />
+	<img src="https://github-readme-stats.vercel.app/api?username=Hamzabaloch08&show_icons=true&locale=en&count_private=true&theme=dark" alt="github-stats" width="600" />
 	<br> <br>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzabaloch08&theme=dark" alt="github-streak-stack" width="800" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzabaloch08&theme=dark" alt="github-streak-stack" width="600" />
 	<br> <br>
 	<img src="https://github-profile-trophy.vercel.app/?username=Hamzabaloch08&theme=darkhub" alt="GitHub Profile Trophy" />
 	</span>
