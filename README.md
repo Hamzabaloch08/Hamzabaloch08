@@ -65,7 +65,7 @@ _________________________________________________________________
 <br>
 <p align="center">
 	<span align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Hamzabaloch08&show_icons=true&locale=en&count_private=true&theme=dark" alt="github-stats" />
+	<img src="https://github-readme-stats.vercel.app/api?username=Hamzabaloch08&show_icons=true&locale=en&count_private=true&theme=dark" alt="github-stats" weight="400px" />
 	<br> <br>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzabaloch08&theme=dark" alt="github-streak-stack" />
 	<br> <br>
