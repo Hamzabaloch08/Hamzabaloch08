@@ -63,13 +63,13 @@ _________________________________________________________________
 
 <h2> GitHub Statistics ⚡ :</h2>
 <br>
-	<span align="center">
+	<div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=Hamzabaloch08&show_icons=true&locale=en&count_private=true&theme=dark" alt="github-stats" />
 	<br> <br>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzabaloch08&theme=dark" alt="github-streak-stack" />
 	<br> <br>
 	<img src="https://github-profile-trophy.vercel.app/?username=Hamzabaloch08&theme=darkhub" alt="GitHub Profile Trophy" />
-	</span>
+	</div>
 
 
 
