@@ -29,10 +29,10 @@
   Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at
-- 🔭 I’m currently working on **'FRONT END'**
+- 🔭 I’m currently working on **'JAVASCRIPT'**
 - 🌱 I’m currently learning **'JAVASCRIPT'**
 - 💬 Ask me about ** **
-- 📫 How to reach me ****
+- 📫 How to reach me ** **
 <br>
 
 <div align="center">	
