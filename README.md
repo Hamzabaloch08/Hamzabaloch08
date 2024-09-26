@@ -37,7 +37,9 @@
 
 <div align="center">	
 <img src="https://komarev.com/ghpvc/?username=Hamzabaloch08&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Hamzabaloch08" /> 
-	<a href="https://wakatime.com/@018e156a-97fe-4052-9550-7a4c5bc45f92"><img src="https://wakatime.com/badge/user/018e156a-97fe-4052-9550-7a4c5bc45f92.svg" alt="Total time coded since Mar 6 2024" height="28" /></a>
+	<a href="https://wakatime.com/@018e156a-97fe-4052-9550-7a4c5bc45f92">
+		<img src="https://wakatime.com/badge/user/018e156a-97fe-4052-9550-7a4c5bc45f92.svg" alt="Total time coded since Mar 6 2024" height="28" />
+	</a>
 </div>
 <br>
 
