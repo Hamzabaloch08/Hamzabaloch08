@@ -66,7 +66,7 @@ _________________________________________________________________
 <br>
 <div align="center">
 	
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrazabaloch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzabaloch08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
    <br> <br>
    <img src="https://github-readme-stats.vercel.app/api?username=Hamzabaloch08&show_icons=true&locale=en&count_private=true&theme=dark" alt="github-stats" />
    <br> <br>
