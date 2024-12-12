@@ -4,26 +4,26 @@
   I'm a 16-year-old FRONT-END developer from Karachi, Pakistan. I recently completed a rigorous FRONT-END training program where I honed my skills in HTML, CSS, and JAVASCRIPT. Currently, I am delving deeper into JAVASCRIPT to expand my knowledge and capabilities. My ASPIRATION is to become a proficient FULL STACK DEVELOPER, adept in both FRONT-END and BACK-END technologies. I aim to create dynamic and seamless WEB APPLICATIONS that enrich user experiences. With dedication and continuous learning, I strive to excel in every aspect of FULL STACK DEVELOPMENT.
 </p>
 
+---
+
+### 🛠️ Skills:
+
 <div align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5 logo" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3 logo" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="Bootstrap logo" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS logo" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="Bootstrap" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript logo" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="Adobe Illustrator logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="Canva logo" />
+  <img src="https://cdn.simpleicons.org/vscode/007ACC" height="40" alt="VSCode" />
 </div>
 
 ---
