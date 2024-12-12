@@ -33,7 +33,7 @@
 - 🔭 I’m currently working on **JAVASCRIPT**.
 - 🌱 I’m currently learning **JAVASCRIPT**.
 - 💬 Ask me about **Frontend Development**.
-- 📫 How to reach me: **[Contact Info Below](#🌐-connect-with-me)**.
+- 📧 How to reach me: **[Contact Info Below](#%f0%9f%8c%90-connect-with-me)**.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Hamzabaloch08&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -74,7 +74,6 @@
   <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=Hamzabaloch08&theme=darkhub" alt="GitHub Trophies" />
 </div>
-
 
 
 
