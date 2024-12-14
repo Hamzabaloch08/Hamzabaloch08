@@ -57,7 +57,8 @@
   <a href="https://wa.me/923322279406" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="WhatsApp logo" />
   </a>
-  <a href="https://www.linkedin.com/in/hamza-baloxh" target="_blank">
+  
+  <a href="https://www.linkedin.com/in/hamza-baloxh08/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn logo" />
   </a>
   <a href="https://www.instagram.com/hb._07x/" target="_blank">
