@@ -28,7 +28,7 @@
 ### 🛠️ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **JAVASCRIPT**.
-- 🌱 I’m currently learning **JAVASCRIPT**.
+- 🌱 I’m currently learning **React, Tailwind**.
 - 💬 Ask me about **Frontend Development**.
 - 📧 How to reach me: **[Contact Info Below](#%f0%9f%8c%90-connect-with-me)**.
 
