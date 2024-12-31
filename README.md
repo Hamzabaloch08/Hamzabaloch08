@@ -32,6 +32,10 @@
 - 💬 Ask me about **Frontend Development**.
 - 📧 How to reach me: **[Contact Info Below](#%f0%9f%8c%90-connect-with-me)**.
 
+---
+
+### 🌟 Portfolio:
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Hamzabaloch08&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <a href="https://wakatime.com/@018e156a-97fe-4052-9550-7a4c5bc45f92" target="_blank">
