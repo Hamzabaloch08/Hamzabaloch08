@@ -31,7 +31,7 @@
 - 🌱 I’m currently learning **React, Tailwind**.
 - 💬 Ask me about **Frontend Development**.
 - 📧 How to reach me: **[Contact Info Below](#%f0%9f%8c%90-connect-with-me)**.
-- 🌟 Portfolio: **[hamzabaloch.Portfolio](https://hamzabaloch.vercel.app/)**
+- 🌟 Portfolio: **<a href="https://hamzabaloch.vercel.app/" target="_blank">hamzabaloch.Portfolio</a>**
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Hamzabaloch08&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
