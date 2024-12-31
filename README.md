@@ -32,8 +32,6 @@
 - 💬 Ask me about **Frontend Development**.
 - 📧 How to reach me: **[Contact Info Below](#%f0%9f%8c%90-connect-with-me)**.
 
----
-
 ### 🌟 Portfolio:
 
 <div align="center">
