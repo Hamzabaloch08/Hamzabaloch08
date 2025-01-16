@@ -73,7 +73,7 @@
   <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Hamzabaloch08&theme=highcontrast&short_numbers=true" />
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Hamzabaloch08&theme=dark" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hamzabaloch08&theme=darkhub" alt="GitHub Trophies" />
 </div>
 
 
