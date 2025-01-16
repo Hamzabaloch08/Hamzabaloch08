@@ -71,7 +71,7 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Hamzabaloch08&show_icons=true&locale=en&count_private=true&theme=dark" alt="GitHub Stats" />
   <br><br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hamzabaloch08&theme=highcontrast&short_numbers=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Hamzabaloch08&theme=highcontrast&short_numbers=true" alt="GitHub Streak" /></a>
   <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=Hamzabaloch08&theme=darkhub" alt="GitHub Trophies" />
 </div>
