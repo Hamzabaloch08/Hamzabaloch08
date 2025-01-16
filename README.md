@@ -67,9 +67,9 @@
 ## ⚡ GitHub Statistics:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzabaloch08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzabaloch08&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamzabaloch08&show_icons=true&locale=en&count_private=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamzabaloch08&show_icons=true&locale=en&count_private=true&theme=highcontrast" alt="GitHub Stats" />
   <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Hamzabaloch08&theme=highcontrast&short_numbers=true" />
   <br><br>
