@@ -62,5 +62,5 @@
 <!-- Footer Animated Image -->
 <p align="center"> 
 
-<img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" height="80"/>
+<img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif"/>
 </p>
