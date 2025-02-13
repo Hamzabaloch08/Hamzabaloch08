@@ -44,26 +44,6 @@
 
 ---
 
-### 🌐 Connect with me:
-
-<div align="center">
-  <a href="https://www.facebook.com/hb.07x/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Facebook logo" />
-  </a>
-  <a href="https://wa.me/923322279406" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="WhatsApp logo" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/hamza-baloxh08/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn logo" />
-  </a>
-  <a href="https://www.instagram.com/hb._07x/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Instagram logo" />
-  </a>
-</div>
-
----
-
 <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30"> Streaks, Stats & Activity <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30"></h2>
 
 <div align="center">
