@@ -5,8 +5,8 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Hamzabaloch08?color=FF0000&style=for-the-badge&logo=person-add&labelColor=000000&logoColor=white&label=Follow"/></a>
     <img alt="stars" title="stars" src="https://custom-icon-badges.demolab.com/github/stars/Hamzabaloch08?logo=star&style=for-the-badge&color=FF0000&labelColor=000000"/>
     <img alt="Views" title="Views" src="https://komarev.com/ghpvc/?username=Hamzabaloch08&style=for-the-badge&color=00000F"/>
-    <img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/a7712081-caba-4e50-9f41-e59067e77902.svg?&logoColor=white&style=for-the-badge&color=00000F"/>
-    <img alt="Repos" title="Repos" src="https://custom-icon-badges.demolab.com/badge/-Hamzabaloch08-black?logo=package&logoColor=white&style=for-the-badge"/>
+    <img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/018e156a-97fe-4052-9550-7a4c5bc45f92.svg?&logoColor=white&style=for-the-badge&color=00000F"/>
+    <img alt="Repos" title="Repos" src="https://custom-icon-badges.demolab.com/badge/-Hamzabaloch-black?logo=package&logoColor=white&style=for-the-badge"/>
 <p/>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" /> About Me
