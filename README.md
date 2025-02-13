@@ -8,6 +8,7 @@
     <img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/018e156a-97fe-4052-9550-7a4c5bc45f92.svg?&logoColor=white&style=for-the-badge&color=00000F"/>
     <img alt="Repos" title="Repos" src="https://custom-icon-badges.demolab.com/badge/-Hamzabaloch-black?logo=package&logoColor=white&style=for-the-badge"/>
 <p/>
+<br>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" /> About Me
 **` Newbie Developer (Developer/Designer)`**
