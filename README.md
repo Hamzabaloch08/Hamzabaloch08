@@ -43,6 +43,18 @@
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30"> Streaks, Stats & Activity <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30"></h2>
 
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Hamzabaloch08&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&text_color=FFFFFF&rank_icon=github" />
+
+<img align="center" width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=Hamzabaloch08&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000" />
+<br/>
+
+<img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamzabaloch08&theme=high-contrast&hide_border=true&area_color=FF0000&area=true&point=FF0000&line=FF0000&" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzabaloch08&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=FF0000" />
+<br/>
+
+<img align="center" width="805" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hamzabaloch08&theme=midnight-purple&card_width=805&title_color=FF0000&bg_color=000000&layout=default&hide_border=true&text_color=FFFFFF" />
+</p>
 
 
 
