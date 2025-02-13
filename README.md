@@ -40,7 +40,6 @@
 - 💬 Ask me about **Frontend Development**.
 - 🌟 Portfolio: **<a href="https://hamzabaloch.vercel.app/" target="_blank">hamzabaloch.Portfolio</a>**
 <br>
-<br>
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30"> Streaks, Stats & Activity <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30"></h2>
 
