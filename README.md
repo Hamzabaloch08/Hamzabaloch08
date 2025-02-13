@@ -42,14 +42,6 @@
 <br>
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hamzabaloch08&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <a href="https://wakatime.com/@018e156a-97fe-4052-9550-7a4c5bc45f92" target="_blank">
-    <img src="https://wakatime.com/badge/user/018e156a-97fe-4052-9550-7a4c5bc45f92.svg" alt="WakaTime Stats" height="28" />
-  </a>
-</div>
-<br>
-
 <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30"> Streaks, Stats & Activity <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30"></h2>
 
 <div>
