@@ -40,8 +40,7 @@
     <img src="https://wakatime.com/badge/user/018e156a-97fe-4052-9550-7a4c5bc45f92.svg" alt="WakaTime Stats" height="28" />
   </a>
 </div>
-
----
+<br>
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30"> Streaks, Stats & Activity <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30"></h2>
 
