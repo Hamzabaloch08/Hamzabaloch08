@@ -1,27 +1,18 @@
 <p align="center"> 
 
-![Landing Image](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/logo/welcome.png)
-</p>
-<!-- Header Animated Image END -->
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://komarev.com -->
-<!-- https://custom-icon-badges.demolab.com-->
-
 <p align="center">
-  <a href="https://github.com/GylanSalih?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/gylansalih?color=FF0000&style=for-the-badge&logo=person-add&labelColor=000000&logoColor=white&label=Follow"/></a>
-    <img alt="stars" title="stars" src="https://custom-icon-badges.demolab.com/github/stars/gylansalih?logo=star&style=for-the-badge&color=FF0000&labelColor=000000"/>
-    <img alt="Views" title="Views" src="https://komarev.com/ghpvc/?username=gylansalih&style=for-the-badge&color=00000F"/>
+  <a href="https://github.com/Hamzabaloch08?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Hamzabaloch08?color=FF0000&style=for-the-badge&logo=person-add&labelColor=000000&logoColor=white&label=Follow"/></a>
+    <img alt="stars" title="stars" src="https://custom-icon-badges.demolab.com/github/stars/Hamzabaloch08?logo=star&style=for-the-badge&color=FF0000&labelColor=000000"/>
+    <img alt="Views" title="Views" src="https://komarev.com/ghpvc/?username=Hamzabaloch08&style=for-the-badge&color=00000F"/>
     <img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/a7712081-caba-4e50-9f41-e59067e77902.svg?&logoColor=white&style=for-the-badge&color=00000F"/>
     <img alt="Repos" title="Repos" src="https://custom-icon-badges.demolab.com/badge/-Gylansalih.com-black?logo=package&logoColor=white&style=for-the-badge"/>
 <p/>
 
-<!-- About Me Text BEGIN -->
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" /> About Me
 **` Newbie Developer (Developer/Designer/Creator)`**
 
-I’m working on my portfolio with React and Vite ⚡, mainly focusing on website design. I’m always trying to improve, taking it step by step and getting better each time. My goal is to build websites that look good and actually work well for users. I’m really into learning and growing in web development, and I’m excited to see where this journey takes me as I build more projects and challenge myself 🚀💻
+🚀 I'm a 16-year-old Front-End Developer from Karachi, Pakistan, passionate about crafting dynamic and seamless web applications. I recently completed rigorous training in HTML, CSS, and JavaScript, and I'm currently diving deeper into JavaScript to expand my expertise. My goal is to become a proficient Full Stack Developer, mastering both Front-End and Back-End technologies to create exceptional user experiences. With dedication and a love for continuous learning, I'm on a journey to excel in every aspect of Full Stack Development. 🌐🔥
 
 ### 🛠️ Skills:
 
