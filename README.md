@@ -3,8 +3,7 @@
 <p align="justify">
   I'm a 16-year-old FRONT-END developer from Karachi, Pakistan. I recently completed a rigorous FRONT-END training program where I honed my HTML, CSS, and JAVASCRIPT skills. I am delving deeper into JAVASCRIPT to expand my knowledge and capabilities. I aspire to become a proficient FULL STACK DEVELOPER, adept in FRONT-END and BACK-END technologies. I aim to create dynamic and seamless WEB APPLICATIONS that enrich user experiences. With dedication and continuous learning, I strive to excel in every aspect of FULL STACK DEVELOPMENT.
 </p>
-
----
+<br>
 
 ### 🛠️ Skills:
 
