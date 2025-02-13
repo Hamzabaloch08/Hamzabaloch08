@@ -1,9 +1,27 @@
-<h1 align="center">Hi 👋🏻, I'm Hamza Baloch</h1>
+<p align="center"> 
 
-<p align="justify">
-  I'm a 16-year-old FRONT-END developer from Karachi, Pakistan. I recently completed a rigorous FRONT-END training program where I honed my HTML, CSS, and JAVASCRIPT skills. I am delving deeper into JAVASCRIPT to expand my knowledge and capabilities. I aspire to become a proficient FULL STACK DEVELOPER, adept in FRONT-END and BACK-END technologies. I aim to create dynamic and seamless WEB APPLICATIONS that enrich user experiences. With dedication and continuous learning, I strive to excel in every aspect of FULL STACK DEVELOPMENT.
+![Landing Image](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/logo/welcome.png)
 </p>
-<br>
+<!-- Header Animated Image END -->
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- View counter - https://komarev.com -->
+<!-- https://custom-icon-badges.demolab.com-->
+
+<p align="center">
+  <a href="https://github.com/GylanSalih?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/gylansalih?color=FF0000&style=for-the-badge&logo=person-add&labelColor=000000&logoColor=white&label=Follow"/></a>
+    <img alt="stars" title="stars" src="https://custom-icon-badges.demolab.com/github/stars/gylansalih?logo=star&style=for-the-badge&color=FF0000&labelColor=000000"/>
+    <img alt="Views" title="Views" src="https://komarev.com/ghpvc/?username=gylansalih&style=for-the-badge&color=00000F"/>
+    <img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/a7712081-caba-4e50-9f41-e59067e77902.svg?&logoColor=white&style=for-the-badge&color=00000F"/>
+    <img alt="Repos" title="Repos" src="https://custom-icon-badges.demolab.com/badge/-Gylansalih.com-black?logo=package&logoColor=white&style=for-the-badge"/>
+<p/>
+
+<!-- About Me Text BEGIN -->
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" /> About Me
+**` Newbie Developer (Developer/Designer/Creator)`**
+
+I’m working on my portfolio with React and Vite ⚡, mainly focusing on website design. I’m always trying to improve, taking it step by step and getting better each time. My goal is to build websites that look good and actually work well for users. I’m really into learning and growing in web development, and I’m excited to see where this journey takes me as I build more projects and challenge myself 🚀💻
 
 ### 🛠️ Skills:
 
