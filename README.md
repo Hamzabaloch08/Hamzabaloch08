@@ -59,6 +59,8 @@
 </p>
 
 
+<!-- Footer Animated Image -->
+<p align="center"> 
 
-
- 
+![Portfolio](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/logo/fftf.png)
+</p>
