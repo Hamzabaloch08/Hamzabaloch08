@@ -44,15 +44,6 @@
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30"> Streaks, Stats & Activity <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30"></h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzabaloch08&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamzabaloch08&show_icons=true&locale=en&count_private=true&theme=highcontrast" alt="GitHub Stats" />
-  <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Hamzabaloch08&theme=highcontrast&short_numbers=true" />
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Hamzabaloch08&theme=darkhub" alt="GitHub Trophies" />
-</div>
 
 
 
