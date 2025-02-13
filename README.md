@@ -58,9 +58,3 @@
 
 <img align="center" width="805" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hamzabaloch08&theme=midnight-purple&card_width=805&title_color=FF0000&bg_color=000000&layout=default&hide_border=true&text_color=FFFFFF" />
 </p>
-
-<!-- Footer Animated Image -->
-<p align="center"> 
-
-<img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif"/>
-</p>
