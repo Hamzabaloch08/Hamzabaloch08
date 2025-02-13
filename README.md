@@ -62,5 +62,5 @@
 <!-- Footer Animated Image -->
 <p align="center"> 
 
-![Portfolio]([https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/logo/fftf.png](https://i.pinimg.com/originals/d2/09/8a/d2098ac3a2a8e8de756ac644d05482f6.gif))
+<img src="https://i.pinimg.com/originals/d2/09/8a/d2098ac3a2a8e8de756ac644d05482f6.gif"/>
 </p>
