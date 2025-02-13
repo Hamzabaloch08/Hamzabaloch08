@@ -23,8 +23,7 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="28" alt="canva logo"  />
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="28" alt="adobeillustrator logo"  />
 </div>
-
----
+<br>
 
 ### 🛠️ Here are some ideas to get you started:
 
