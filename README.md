@@ -57,6 +57,3 @@
 
 <img align="center" width="805" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hamzabaloch08&theme=midnight-purple&card_width=805&title_color=FF0000&bg_color=000000&layout=default&hide_border=true&text_color=FFFFFF" />
 </p>
-
-<!-- Adding Credly Badge -->
-<img src="https://www.credly.com/your-badge-image-url" />
