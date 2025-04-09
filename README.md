@@ -59,4 +59,4 @@
 </p>
 
 <!-- Adding Credly Badge -->
-<img src="https://www.credly.com/your-badge-image-url)](https://www.credly.com/badge/3fdbeab5-7b3c-4a3a-86ac-f45615d58c5b" />
+<img src="https://www.credly.com/badge/3fdbeab5-7b3c-4a3a-86ac-f45615d58c5b" />
