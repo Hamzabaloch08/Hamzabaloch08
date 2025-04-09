@@ -59,5 +59,4 @@
 </p>
 
 <!-- Adding Credly Badge -->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3fdbeab5-7b3c-4a3a-86ac-f45615d58c5b" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![Credly Badge](https://www.credly.com/your-badge-image-url)](https://www.credly.com/badge/3fdbeab5-7b3c-4a3a-86ac-f45615d58c5b)
