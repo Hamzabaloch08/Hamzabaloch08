@@ -18,43 +18,43 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" alt="npm logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="35" alt="canva logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=ai" height="35" alt="adobeillustrator logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=firebase" height="35" alt="firebase logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="vercel logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=jquery" height="35" alt="jquery logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo"  />
 </div>
 <br>
