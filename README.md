@@ -16,7 +16,7 @@
 
 ### 🛠️ Skills:
 
-<div align="center" width="60%">
+<div align="center" width="40%">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
