@@ -57,7 +57,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
-###
 <br>
 
 ### 🛠️ Here are some ideas to get you started:
