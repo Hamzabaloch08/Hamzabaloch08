@@ -61,9 +61,8 @@
 
 ### 🛠️ Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **JAVASCRIPT**.
-- 🌱 I’m currently learning **React, Tailwind**.
-- 💬 Ask me about **Frontend Development**.
+- 🔭 I’m currently working on **Frontend and Backend Development (MERN Stack)**.
+- 🌱 I’m currently learning the **MERN Stack**.
 - 🌟 Portfolio: **<a href="https://hamzabaloch.vercel.app/" target="_blank">hamzabaloch.Portfolio</a>**
 <br>
 
