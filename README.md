@@ -10,7 +10,7 @@
 <br>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" /> About Me
-**` Newbie Developer (Developer/Designer)`**
+**` Newbie Developer (FrontEnd-Developer)`**
 
 🚀 I'm a 17-year-old Front-End Developer from Karachi, Pakistan, passionate about crafting dynamic and seamless web applications. I recently completed rigorous training in HTML, CSS, and JavaScript, and I'm currently diving deeper into JavaScript to expand my expertise. My goal is to become a proficient Full Stack Developer, mastering both Front-End and Back-End technologies to create exceptional user experiences. With dedication and a love for continuous learning, I'm on a journey to excel in every aspect of Full Stack Development. 🌐🔥
 
