@@ -62,6 +62,14 @@ Always eager to learn, explore, and grow with new technologies🌐🔥
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
 </div>
 <br>
 
