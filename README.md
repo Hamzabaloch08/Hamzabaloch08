@@ -10,7 +10,7 @@
 <br>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" /> About Me
-**`  MERN Stack Developer`**
+**`MERN Stack Developer`**
 
 🚀 MERN Stack Developer passionate about building responsive, scalable, and impactful web applications.
 Skilled in Full-Stack Development with MERN (MongoDB, Express.js, React, Node.js), with strong expertise in Front-End Development and modern web technologies.
