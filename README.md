@@ -76,7 +76,7 @@ Always eager to learn, explore, and grow with new technologies🌐🔥
 ### 🛠️ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Frontend and Backend Development (MERN Stack)**.
-- 🌱 I’m currently learning the **REACT Native**.
+- 🌱 I’m currently learning the **REACT NATIVE**.
 - 🌟 Portfolio: **<a href="https://hamzabaloch.vercel.app/" target="_blank">hamzabaloch.Portfolio</a>**
 <br>
 
