@@ -36,9 +36,9 @@ const hamza = {
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
-  <br/><br/>
+  <br/>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,redux" />
-  <br/><br/>
+  <br/>
   <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,postman,figma" />
 </div>
 
