@@ -35,11 +35,9 @@ const hamza = {
 <h2 align="center"><code>&lt; Tech Stack /&gt;</code></h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,bootstrap,redux" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,redux" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,firebase,git,github,vscode,postman,figma" />
 </div>
 
 ---
