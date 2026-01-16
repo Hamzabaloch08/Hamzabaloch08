@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Hamza+Baloch;MERN+Stack+%26+React+Native+Developer" alt="Typing SVG" />
 </h1>
@@ -16,9 +14,7 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=200&lines=%3C+About+Me+%2F%3E" alt="About Me" />
-</h2>
+<h2 align="center"><code>&lt; About Me /&gt;</code></h2>
 
 ```javascript
 const hamza = {
@@ -36,9 +32,7 @@ const hamza = {
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=200&lines=%3C+Tech+Stack+%2F%3E" alt="Tech Stack" />
-</h2>
+<h2 align="center"><code>&lt; Tech Stack /&gt;</code></h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
@@ -50,9 +44,7 @@ const hamza = {
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=220&lines=%3C+GitHub+Stats+%2F%3E" alt="GitHub Stats" />
-</h2>
+<h2 align="center"><code>&lt; GitHub Stats /&gt;</code></h2>
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hamzabaloch08&show_icons=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=0D1117" />
@@ -69,9 +61,7 @@ const hamza = {
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=250&lines=%3C+Connect+With+Me+%2F%3E" alt="Connect" />
-</h2>
+<h2 align="center"><code>&lt; Connect With Me /&gt;</code></h2>
 
 <p align="center">
   <a href="https://instagram.com/your_username" target="_blank">
@@ -79,12 +69,10 @@ const hamza = {
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/your_username" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="48" height="48" style="background:#1877F2;border-radius:8px;padding:5px" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="48" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/your_username" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
