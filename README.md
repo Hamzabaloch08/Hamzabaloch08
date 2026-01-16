@@ -69,7 +69,7 @@ const hamza = {
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/your_username" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="48" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="48" height="48" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/your_username" target="_blank">
