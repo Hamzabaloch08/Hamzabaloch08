@@ -7,7 +7,7 @@
   </a>
   <img alt="Views" title="Profile Views" src="https://komarev.com/ghpvc/?username=Hamzabaloch08&style=for-the-badge&color=FF0000&labelColor=000000"/>
   <a href="https://wakatime.com/@018e156a-97fe-4052-9550-7a4c5bc45f92">
-    <img alt="WakaTime" title="Coding Stats" src="https://wakatime.com/badge/user/018e156a-97fe-4052-9550-7a4c5bc45f92.svg?style=for-the-badge&color=FF0000"/>
+    <img alt="WakaTime" title="Coding Stats" src="https://wakatime.com/badge/user/018e156a-97fe-4052-9550-7a4c5bc45f92.svg?style=for-the-badge"/>
   </a>
 </p>
 
@@ -42,9 +42,9 @@ const hamza = {
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,redux,nextjs,js,ts,html,css,tailwind,bootstrap" />
-  <br/>
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-  <br/>
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,postman,vscode,vite" />
 </div>
 
@@ -53,20 +53,29 @@ const hamza = {
 ## GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hamzabaloch08&show_icons=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=000000&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzabaloch08&layout=compact&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=000000&langs_count=8" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Hamzabaloch08&show_icons=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=0D1117&rank_icon=github" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hamzabaloch08&show_icons=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=0D1117&rank_icon=github" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hamzabaloch08&layout=compact&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=0D1117&langs_count=8" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hamzabaloch08&layout=compact&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Hamzabaloch08&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Hamzabaloch08&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF" />
+    <img width="60%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Hamzabaloch08&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF" alt="GitHub Streak"/>
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamzabaloch08&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&area_color=FF0000&hide_border=true" alt="Activity Graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamzabaloch08&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&area=true&area_color=FF0000&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -74,22 +83,15 @@ const hamza = {
 ## Connect With Me
 
 <div align="center">
-  <a href="https://hamzabaloch.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio"/>
+  <a href="https://instagram.com/your_username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
   </a>
-  <a href="https://github.com/Hamzabaloch08" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <a href="https://facebook.com/your_username" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="48" height="48" alt="Facebook"/>
   </a>
-  <a href="https://linkedin.com/in/" target="_blank">
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/your_username" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
-  </a>
 </div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=80&section=footer"/>
-</p>
