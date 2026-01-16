@@ -35,8 +35,6 @@ Always eager to learn, explore, and grow with new technologies🌐🔥
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="4" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-  <img width="4" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
@@ -91,7 +89,7 @@ Always eager to learn, explore, and grow with new technologies🌐🔥
 
 <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamzabaloch08&theme=high-contrast&hide_border=true&area_color=FF0000&area=true&point=FF0000&line=FF0000&" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzabaloch08&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=FF0000" />
+<img align="center" src="https://img.shields.io/github/languages/top/Hamzabaloch08?color=ff0000&labelColor=000000" />
 <br/>
 
 <img align="center" width="805" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hamzabaloch08&theme=midnight-purple&card_width=805&title_color=FF0000&bg_color=000000&layout=default&hide_border=true&text_color=FFFFFF" />
