@@ -91,20 +91,18 @@ const hamza = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Stats
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Hamzabaloch08&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Hamza's GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzabaloch08&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages"/>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hamzabaloch08&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Hamza's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hamzabaloch08&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Most Used Languages"/>
+</p>
 
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzabaloch08&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0d1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Hamzabaloch08&theme=tokyonight_duo&hide_border=true&background=0d1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="GitHub Streak"/>
+</p>
 
-<br/>
-
-<div align="center">
+<p align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamzabaloch08&theme=react-dark&hide_border=true&area=true&area_color=00bfbf&line=00bfbf&point=ffffff" alt="Contribution Graph"/>
-</div>
+</p>
 
 ---
 
